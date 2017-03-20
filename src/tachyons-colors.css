@@ -45,45 +45,19 @@
   --white-0125: rgba(255, 255, 255, .0125);
   
   
-  /* Previous Vars */
-  
-  /*--dark-navy: #15191d;*/
-  /*--navy: #1b1f24;*/
-  /*--light-navy: #292f36;*/
-  /*--dark-gray: #434b56;*/
-  /*--gray: #646e7b;*/
-  /*--light-gray: #d1d2d3;*/
-  /*--tag-gray: #f6f6f6;*/
-  /*--yellow: #ffce51;*/
-  /*--orange: #f59e33;*/
-  /*--dark-orange: #df6941;*/
-  /*--tag-orange: #fef3e7;*/
-  /*--dark-blue: #0064af;*/
-  /*--blue: #009dcf;*/
-  /*--tag-blue: #edf0ff;*/
-  /*--dark-green: #3ab66e;*/
-  /*--green: #add960;*/
-  /*--turquoise: #42c2b3;*/
-  /*--tag-turquoise: #d9f3f0;*/
-  /*--dark-red: #8f1233;*/
-  /*--red: #e13f58;*/
-  
-  
   
   /* Still active previous vars */
   
   --dark-navy: var(--base-secondary);
   --navy: var(--base);
   --light-navy: var(--dark-blue);
-  --dark-gray: var(--white-10);
-  --gray: var(--white-30);
+  --gray: var(--dark-gray);
   --light-gray: var(--white-secondary);
   --tag-gray: var(--white-90);
   --dark-orange: var(--orange-secondary);
   --tag-orange: var(--white-70);
   --tag-blue: var(--white-70);
   --dark-green: var(--green-secondary);
-  --green: var(--green-secondary);
   --turquoise: var(--green-secondary);
   --tag-turquoise: var(--white-70);
   --dark-red: var(--red-secondary);
@@ -100,7 +74,7 @@
   /*--gray: #f4f5f9;*/
   --gray-secondary: #e2e3e7;
   
-  /*--dark-gray: #63768d;*/
+  --dark-gray: #63768d;
   --dark-gray-secondary: #8996a5;
   
   --blue: #4786ff;
@@ -109,7 +83,7 @@
   --dark-blue: #344055;
   --dark-blue-secondary: #273040;
   
-  /*--green: #59cd90;*/
+  --green: #59cd90;
   --green-secondary: #409b6b;
   
   --orange: #fd9126;
