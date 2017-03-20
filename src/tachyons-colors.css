@@ -79,7 +79,7 @@
   /*--washed-yellow:  #fffceb;*/
   /*--washed-red:  #ffdfdf;*/
   
-  $white-secondary: #f8f8f8;
+  --white-secondary: #f8f8f8;
   
   --base: #232c3b;
   --base-secondary: #171e27;
