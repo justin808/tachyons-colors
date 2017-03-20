@@ -45,7 +45,7 @@
   --white-0125: rgba(255, 255, 255, .0125);
   
   
-  /* Previous iteration stuff */
+  /* Previous Vars */
   
   /*--dark-navy: #15191d;*/
   /*--navy: #1b1f24;*/
@@ -69,15 +69,38 @@
   /*--red: #e13f58;*/
   
   
+  
+  /* Still active previous vars */
+  
+  --dark-navy: var(--base-secondary);
+  --navy: var(--base);
+  --light-navy: var(--dark-blue);
+  --dark-gray: var(--white-10);
+  --gray: var(--white-30);
+  --light-gray: var(--white-secondary);
+  --tag-gray: var(--white-90);
+  --dark-orange: var(--orange-secondary);
+  --tag-orange: var(--white-70);
+  --tag-blue: var(--white-70);
+  --dark-green: var(--green-secondary);
+  --green: var(--green-secondary);
+  --turquoise: var(--green-secondary);
+  --tag-turquoise: var(--white-70);
+  --dark-red: var(--red-secondary);
+  
+  
+  
+  /* Next iteration vars */
+  
   --white-secondary: #f8f8f8;
   
   --base: #232c3b;
   --base-secondary: #171e27;
   
-  --gray: #f4f5f9;
+  /*--gray: #f4f5f9;*/
   --gray-secondary: #e2e3e7;
   
-  --dark-gray: #63768d;
+  /*--dark-gray: #63768d;*/
   --dark-gray-secondary: #8996a5;
   
   --blue: #4786ff;
@@ -86,7 +109,7 @@
   --dark-blue: #344055;
   --dark-blue-secondary: #273040;
   
-  --green: #59cd90;
+  /*--green: #59cd90;*/
   --green-secondary: #409b6b;
   
   --orange: #fd9126;
