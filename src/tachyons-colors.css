@@ -51,7 +51,6 @@
   --dark-navy: var(--base-secondary);
   --navy: var(--base);
   --light-navy: var(--dark-blue);
-  --gray: var(--dark-gray);
   --light-gray: var(--white-secondary);
   --tag-gray: var(--white-90);
   --dark-orange: var(--orange-secondary);
@@ -71,7 +70,7 @@
   --base: #232c3b;
   --base-secondary: #171e27;
   
-  /*--gray: #f4f5f9;*/
+  --gray: #f4f5f9;
   --gray-secondary: #e2e3e7;
   
   --dark-gray: #63768d;
