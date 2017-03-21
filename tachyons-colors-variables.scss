@@ -28,18 +28,6 @@ $white-10: rgba(255, 255, 255, .1) !default;
 $white-05: rgba(255, 255, 255, .05) !default;
 $white-025: rgba(255, 255, 255, .025) !default;
 $white-0125: rgba(255, 255, 255, .0125) !default;
-$dark-navy: $base-secondary !default;
-$navy: $base !default;
-$light-navy: $dark-blue !default;
-$light-gray: $white-secondary !default;
-$tag-gray: $white-90 !default;
-$dark-orange: $orange-secondary !default;
-$tag-orange: $white-70 !default;
-$tag-blue: $white-70 !default;
-$dark-green: $green-secondary !default;
-$turquoise: $green-secondary !default;
-$tag-turquoise: $white-70 !default;
-$dark-red: $red-secondary !default;
 $white-secondary: #f8f8f8 !default;
 $base: #232c3b !default;
 $base-secondary: #171e27 !default;
@@ -59,6 +47,18 @@ $red: #f0624d !default;
 $red-secondary: #c44c3a !default;
 $yellow: #fbc155 !default;
 $yellow-secondary: #d2a043 !default;
+$dark-navy: $base-secondary !default;
+$navy: $base !default;
+$light-navy: $dark-blue !default;
+$light-gray: $white-secondary !default;
+$tag-gray: $white-90 !default;
+$dark-orange: $orange-secondary !default;
+$tag-orange: $white-70 !default;
+$tag-blue: $white-70 !default;
+$dark-green: $green-secondary !default;
+$turquoise: $green-secondary !default;
+$tag-turquoise: $white-70 !default;
+$dark-red: $red-secondary !default;
 
 // Custom Media Query Variables
 
